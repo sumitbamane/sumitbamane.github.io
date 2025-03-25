@@ -1,0 +1,102 @@
+Sumit Bamane
+DevOps Engineer
++91 8422 806720
+sumitdb97@gmail.com
+Mumbai, India
+
+Objective
+I am looking forward to working in an organization that provides an environment for growth,
+with competent and strong leaders in Cloud and DevOps technologies. I am eager to work with
+various AWS services such as EC2, VPC, RDS, S3, IAM, and Route 53, as well as CI/CD tools.
+Additionally, I have a strong inclination for learning recent technologies and maintain a strong
+work ethic, combined with a commitment to excellence in all projects I undertake.
+
+
+Professional Summary
+3+ years of experience as an Associate DevOps Engineer - eTechno Lab March 2022 – Present
+Good understanding of Software Development Lifecycle (SDLC) and Agile methodologies.
+Worked on Agile methodology and participated in scrum meetings.
+Hands on experience on AWS services like EC2, S3, RDS, Auto scaling, ELB, VPC, IAM, Cloud
+Front, Cloud Trail, S3, Cloud Watch, SNS
+Worked on SCM with the help of GIT and GITHUB, created branches, tags and have done
+access control.
+Worked on Jenkins pipeline and freestyle jobs.
+Worked on Jenkins File and multi branch pipeline jobs.
+Implemented tools and processes to improve delivery to customers.
+Good knowledge of Docker and Kubernetes.
+Good understanding of Build Automation tool i.e. Maven.
+Maintain and leverage Configuration/Systems Management tools such as Ansible.
+Participate in architecture planning sessions with development team.
+Frequent use of shell scripting language
+Linux Administration includes the provisioning and maintenance of Linux servers in
+production and development environments.
+Good communication, collaboration with proficiency at grasping new technical concepts
+quickly and utilize the same in a productive manner.
+Self-motivated, Pro-Active, and Quick learner of new concepts and technologies.
+Supported various environments such as DEV, QA, UAT, PRE-PROD as well as performance
+environments.
+Having knowledge in Kubernetes Tool.
+Determine the priority for test scenarios and create execution plans to implement these
+scenarios.
+
+
+Projects
+MDeverywhere Domain - Health Care
+Roles and Responsibilities:
+Worked on daily builds and deployments on DEV, QA, and UAT Env’s.
+Making sure the Env’s are up and running for testing purposes.
+Creating and maintaining AWS Infra.
+Creating Jenkins CI/CD pipeline for all the branches.
+Source code management of both development team and also for QA framework in GIT.
+Providing access to users in SCM and artifactory.
+Creating and Maintaining EC2 machines, creating AMI, and EBS snapshots.
+Setting up an Application Load balancer for QA env.
+Infrastructure monitoring with the help of CloudWatch and CloudWatch logs.
+Setting up SNS topics for Email.
+Setting up DNS for UAT Environments using Route 53.
+Copying server logs onto S3 for backup, also maintaining S3 data lifecycle.
+Using CloudFront for low latency URLs.
+Creating IAM groups, roles, and policies.
+Creating CloudTrail for monitoring user activity for compliance purposes.
+Creating Mysql DB in RDS and also maintaining its backups, and read-replicas.
+Created VPC peering connections between QA and UAT networks for private subnets.
+
+Skills
+Linux
+Git & GitHub
+Bash
+Shell Scripting
+AWS
+EC2
+VPC
+S3
+IAM
+SQL
+YAML
+Agile
+Scrum
+Maven
+Jenkins
+Docker
+Ansible
+Terraform
+Kubernetes
+RDS Aurora
+JIRA
+Blockchain
+Leadership
+Quick Learner
+Team Player
+Problem Solving
+Communication
+Negotiation
+Interpersonal
+Result Oriented
+
+Education
+Bachelor of Engineering
+University of Mumbai - 2022
+
+Languages
+English - Hindi - Marathi - German - Japanese
+
