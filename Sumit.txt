@@ -13,7 +13,7 @@ work ethic, combined with a commitment to excellence in all projects I undertake
 
 
 Professional Summary
-3+ years of experience as an Associate DevOps Engineer - eTechno Lab March 2022 – Present
+3+ years of experience as an Associate DevOps Engineer - eTechno Lab September 2022 – Present
 Good understanding of Software Development Lifecycle (SDLC) and Agile methodologies.
 Worked on Agile methodology and participated in scrum meetings.
 Hands on experience on AWS services like EC2, S3, RDS, Auto scaling, ELB, VPC, IAM, Cloud
@@ -99,4 +99,3 @@ University of Mumbai - 2022
 
 Languages
 English - Hindi - Marathi - German - Japanese
-
